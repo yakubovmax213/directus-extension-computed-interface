@@ -9,7 +9,7 @@
 	"license": "gpl-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yakubovmax213/directus-extension-computed-interface"
+		"url": "https://github.com/yakubovmax213/directus-extension-computed-interface.git"
 	},
 	"keywords": [
 		"directus",
